@@ -67,6 +67,10 @@ p{
   width: 42vw;
 }
 
+#imageUpload{
+  width: 200px;
+}
+
 .menu-sobre > p {
   text-align: justify;
   width: 500px;
@@ -114,7 +118,7 @@ p{
 }
 
 .text-upload-info > p {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 #label-container {
