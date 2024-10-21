@@ -2,11 +2,22 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Hanken Grotesk", sans-serif;
+  font-family:"Carlito";
 }
 
 body {
   background-color: #f4f1eb;
+}
+
+h3{
+  color:  #623e2a;
+  font-size: 25px;
+}
+
+
+p{
+  color:  #623e2a;
+  font-size: 20px;
 }
 
 .container {
@@ -117,7 +128,9 @@ body {
 }
 
 .minha-classe > div {
-  color: #0f0f0f;
+  color:  #623e2a;
   font-weight: bolder;
   margin-bottom: 10px;
+  font-family: "Carlito";
+  font-size: 20px;
 }
