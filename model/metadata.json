@@ -6,6 +6,6 @@
   "timeStamp": "2024-06-21T16:50:00.329Z",
   "userMetadata": {},
   "modelName": "tm-my-image-model",
-  "labels": ["Imagens Fora de Contexto", "Melanoma Extensivo Superficial"],
+  "labels": ["Image out of context", "Superficial Extensive Melanoma"],
   "imageSize": 224
 }
