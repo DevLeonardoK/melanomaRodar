@@ -1,11 +1,1 @@
-{
-  "tfjsVersion": "1.3.1",
-  "tmVersion": "2.4.7",
-  "packageVersion": "0.8.4-alpha2",
-  "packageName": "@teachablemachine/image",
-  "timeStamp": "2024-06-21T16:50:00.329Z",
-  "userMetadata": {},
-  "modelName": "tm-my-image-model",
-  "labels": ["Image out of context", "Superficial Extensive Melanoma"],
-  "imageSize": 224
-}
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.10","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2025-06-23T22:09:52.915Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["Imagens Fora de Contexto","Melanoma Extensivo Superficial","Melanoma Lentigo Maligno ","Melanoma Lentiginoso Acral","Melanoma Nodular"],"imageSize":224}
